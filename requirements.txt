@@ -1,3 +1,2 @@
-telebot
-requests
-string
+telebot == 0.0.4
+requests == 2.27.1

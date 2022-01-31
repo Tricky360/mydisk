@@ -1,4 +1,3 @@
-import string
 import telebot
 import requests
 from requests.structures import CaseInsensitiveDict
